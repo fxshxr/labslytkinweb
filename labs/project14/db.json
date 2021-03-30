@@ -1,0 +1,52 @@
+{
+  "workers": [
+    {
+      "id": 1,
+      "name": "Иван",
+      "surname": "Иванов",
+      "phone": "+7(999)-999-9999",
+      "type": 0,
+      "edit": false
+    },
+    {
+      "id": 2,
+      "name": "Петр",
+      "surname": "Петров",
+      "phone": "+7(999)-999-9999",
+      "type": 1,
+      "edit": false
+    },
+    {
+      "id": 3,
+      "name": "Сидор",
+      "surname": "Сидоров",
+      "phone": "+7(999)-999-9999",
+      "type": 2,
+      "edit": false
+    },
+    {
+      "id": 4,
+      "name": "Василий",
+      "surname": "Васильев",
+      "phone": "+7(999)-999-9999",
+      "type": 3,
+      "edit": false
+    },
+    {
+      "name": "Игорь",
+      "surname": "Лыткин",
+      "phone": "+7(999)-999-9999",
+      "type": 0,
+      "edit": false,
+      "id": 5
+    },
+    {
+      "name": "dfesf",
+      "surname": "dsfds",
+      "phone": "+7(233)-333-33-33",
+      "type": 1,
+      "edit": false,
+      "id": 6
+    }
+  ]
+}
